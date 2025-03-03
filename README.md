@@ -1,7 +1,7 @@
 # myapp
 
-A new Flutter project.
-
+## salida:
+- ![image](https://github.com/user-attachments/assets/2cba493e-8e30-4446-866e-0a0b0af50b9c)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
